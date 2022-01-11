@@ -1,1 +1,1 @@
-# mulunch-blog
+# mulunch-djangoRESTframework-blogAPI
